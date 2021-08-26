@@ -1,5 +1,9 @@
 ### Hi there 👋
-![Welcome](intro.png)
+
+<p align="center">
+  <img src="intro.png" alt="Welcome">
+</p>
+
 
 
 Here are some ideas to get you started:
