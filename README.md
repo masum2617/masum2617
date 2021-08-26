@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Welcome](git_intro.png)
+![Welcome](intro.png)
 
 
 Here are some ideas to get you started:
