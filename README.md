@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="intro.png" alt="Welcome">
-</p>
+</p> -->
 
 - 👨‍💻 Completed my undergradute in Computer Science and Engineering
 - 🔭 Currently looking for a challenging work environment in software industry that will help me to grow and nurture my potentials.
