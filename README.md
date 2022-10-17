@@ -2,8 +2,8 @@
   <img src="intro.png" alt="Welcome">
 </p> -->
 
-- 👨‍💻 Completed my undergradute in Computer Science and Engineering
-- 🔭 Currently Working for a software company as a junior software developer
+<!-- - 👨‍💻 Completed my undergradute in Computer Science and Engineering
+- 🔭 Currently Working for a software company as a junior software developer-->
 <!-- - 🔭 Currently looking for a challenging work environment in software industry that will help me to grow and nurture my potentials. -->
 <!-- - 🌱 I’m currently learning ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
 <!-- - ⚡ Fun fact: Love to cook and try new food items! -->
